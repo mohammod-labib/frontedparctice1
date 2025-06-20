@@ -1,0 +1,277 @@
+@media all and (min-width:340px) and (max-width:500px){
+
+
+
+
+ #img1{
+    position: absolute;
+    top: 52.5cm;
+    left: 6.2cm;
+    height: 3cm;
+    width: 3cm;
+   border: 9px solid;
+   border-color: white;
+   border-radius: 10px;
+    z-index: 2;
+}
+#img2{
+    position: absolute;
+    top: 33cm;
+    left: 1.5cm;
+    height: 4cm;
+    width: 4cm;
+   border: 9px solid;
+   border-color: white;
+   border-radius: 10px;
+    z-index: 2;
+}
+#img3{
+    position: absolute;
+    top: 10.6cm;
+    left: 1.2cm;
+    height: 1.5cm;
+    width: 6cm;
+  
+   border-color: white;
+   border-radius: 11px;
+    z-index: 2;
+}
+#img4{
+    position: absolute;
+    top: 24.857cm;
+    left: 1.5cm;
+    height: 5cm;
+    width: 4cm;
+  
+   border-color: white;
+   border-radius: 11px;
+    z-index: 2;
+}
+#img5{
+    position: absolute;
+    top: 18.99cm;
+    left: 2.2cm;
+    height: 2cm;
+    width: 4cm;
+  
+   border-color: white;
+   border-radius: 11px;
+    z-index: 2;
+}
+ #b1{
+    color: black;
+    background-color:lab(93.74% 3.08 15.21);
+    height: 5cm;
+    width: 9.5cm;
+    border-radius: 10px;
+       position: absolute;
+    top: 46.1cm;
+    left: .5cm;
+}
+#p1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;    
+       position: absolute;
+    top: 46cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#p2{
+    color: rgb(219, 55, 206);
+    font-size: 30px;    
+       position: absolute;
+    top: 47.8cm;
+    left: 5.2cm;
+    z-index: 1;
+}
+#p3{
+    background-color: #ffd00077;
+    color: #e44be9;
+    font-size: 15px;    
+       position: absolute;
+    top: 50cm;
+    left: 2.1cm;
+    width: 4cm;
+    height: 1cm;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 20px;
+    z-index: 1;
+}
+#p4{
+    color: rgb(255, 255, 255);
+    font-size: 40px;    
+       position: absolute;
+    top: 3cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#p5{
+    color: #fdda0f;
+    font-size: 40px;    
+       position: absolute;
+    top: 4.5cm;
+    left: 2.6cm;
+    z-index: 1;
+}
+#p6{
+    color: rgb(255, 255, 255);
+    font-size: 40px; 
+    width: 156px;   
+       position: absolute;
+    top: 4.5cm;
+    left: 4.5cm;
+    z-index: 1;
+}
+#p7{
+    color: rgb(0, 0, 0);
+    font-size: 30px;    
+       position: absolute;
+    top: 52.5cm;
+    left: 1.8cm;
+    z-index: 1;
+}
+#p8{
+    color: rgb(0, 0, 0);
+    font-size: 30px;    
+       position: absolute;
+    top: 21.4cm;
+    width: 200px;
+    left: 1.5cm;
+    z-index: 1;
+}
+#p9{
+    color: rgb(0, 0, 0);
+    font-size: 20px;    
+       position: absolute;
+    top: 12cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#p10{
+    color: rgb(0, 0, 0);
+    font-size: 20px;    
+       position: absolute;
+    top: 15.85cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#p11{
+    color: rgb(0, 0, 0);
+    font-size: 50px;    
+       position: absolute;
+    top: 41cm;
+    left: 1.8cm;
+    z-index: 1;
+}
+#p12{
+    color: #ffffff;
+    font-size: 30px ;  
+      width: 300px;
+       position: absolute;
+    top: 37cm;
+    left: 1.8cm;
+    z-index: 1;
+}
+#p13{
+    color: hsl(0, 0%, 0%);
+    font-size: 15px ;  
+      width: 100px;
+       position: absolute;
+    top: 26cm;
+    left: 6.5cm;
+    z-index: 1;
+}
+#p14{
+    color: hsl(0, 0%, 0%);
+    font-size: 15px ;  
+      width: 200px;
+       position: absolute;
+    top: 43.65cm;
+    left: 1.8cm;
+    z-index: 1;
+}
+#p15{
+    color: hwb(0 100% 0%);
+    font-size: 18px ;  
+      width: 200px;
+       position: absolute;
+    top: 7.5cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#b2{
+    color: black;
+    background-color:lab(37.46% 76.12 -86.64);
+    height: 7cm;
+    width: 10cm;
+    border-radius: 10px;
+    position: absolute;
+    top: 3cm;
+    left: 0.5cm;
+}
+#b3{
+    color: black;
+    background-color:hwb(289 81% 1%);
+    height: 10cm;
+    width: 9.5cm;
+    border-radius: 10px;
+    position: absolute;
+    top: 21.5cm;
+    left: 0.5cm;
+}
+#b4{
+    color: black;
+    background-color: hsl(39, 100%, 71%);
+    height: 6cm;
+    width: 9.5cm;
+    border-radius: 10px;
+         position: absolute;
+    top:51.5cm;
+    left: .5cm;
+}
+#b5{
+    color: black;
+    background-color:lab(100% 0.01 -0.01);
+    height: 5cm;
+    width: 9cm;
+    border-radius: 10px;
+          position: absolute;
+    top:10.5cm;
+    left: .5cm;
+}
+#b6{
+    color: black;
+    background-color:hsl(39, 100%, 71%);
+    height: 5cm;
+    width: 9.5cm;
+    border-radius: 10px;
+            position: absolute;
+    top:16.1cm;
+    left: 0.5cm;
+}
+#b7{
+    color: black;
+    background-color:lch(100% 0.01 296.81);
+    height: 4.5cm;
+    width: 9.5cm;
+    border-radius: 10px;
+     top:41.1cm;
+    left: .5cm;
+    position: absolute;
+}
+#b8{
+    color: black;
+    background-color:lab(37.46% 76.12 -86.64);
+    height: 8.5cm;
+    width: 10cm;
+    border-radius: 10px;
+      top:32.12cm;
+    left: 0.5cm;
+    position: absolute;
+}
+
+
+
+}
