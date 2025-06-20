@@ -1,0 +1,270 @@
+body{
+    background-color: #ebe6e1;
+}
+#img1{
+    position: absolute;
+    top: 15.5cm;
+    left: 2.5cm;
+    height: 3cm;
+    width: 3cm;
+   border: 9px solid;
+   border-color: white;
+   border-radius: 10px;
+    z-index: 2;
+}
+#img2{
+    position: absolute;
+    top: 15.5cm;
+    left: 13.5cm;
+    height: 3cm;
+    width: 3cm;
+   border: 9px solid;
+   border-color: white;
+   border-radius: 10px;
+    z-index: 2;
+}
+#img3{
+    position: absolute;
+    top: 10cm;
+    left: 8.2cm;
+    height: 1cm;
+    width: 4cm;
+  
+   border-color: white;
+   border-radius: 11px;
+    z-index: 2;
+}
+#img4{
+    position: absolute;
+    top: 5.657cm;
+    left: 18.5cm;
+    height: 5cm;
+    width: 4cm;
+  
+   border-color: white;
+   border-radius: 11px;
+    z-index: 2;
+}
+#img5{
+    position: absolute;
+    top: 12.5cm;
+    left: 13.2cm;
+    height: 2cm;
+    width: 4cm;
+  
+   border-color: white;
+   border-radius: 11px;
+    z-index: 2;
+}
+#b1{
+    color: black;
+    background-color:lab(93.74% 3.08 15.21);
+    height: 8cm;
+    width: 5cm;
+    border-radius: 10px;
+       position: absolute;
+    top: 3cm;
+    left: 2cm;
+}
+#p1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;    
+       position: absolute;
+    top: 3cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#p2{
+    color: rgb(219, 55, 206);
+    font-size: 30px;    
+       position: absolute;
+    top: 5.7cm;
+    left: 2.5cm;
+    z-index: 1;
+}
+#p3{
+    background-color: #ffd00077;
+    color: #e44be9;
+    font-size: 15px;    
+       position: absolute;
+    top: 8cm;
+    left: 2.5cm;
+    width: 4cm;
+    height: 1cm;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 20px;
+    z-index: 1;
+}
+#p4{
+    color: rgb(255, 255, 255);
+    font-size: 40px;    
+       position: absolute;
+    top: 3cm;
+    left: 8.5cm;
+    z-index: 1;
+}
+#p5{
+    color: #fdda0f;
+    font-size: 40px;    
+       position: absolute;
+    top: 3cm;
+    left: 15cm;
+    z-index: 1;
+}
+#p6{
+    color: rgb(255, 255, 255);
+    font-size: 40px;    
+       position: absolute;
+    top: 4cm;
+    left: 9cm;
+    z-index: 1;
+}
+#p7{
+    color: rgb(0, 0, 0);
+    font-size: 30px;    
+       position: absolute;
+    top: 11.5cm;
+    left: 2.8cm;
+    z-index: 1;
+}
+#p8{
+    color: rgb(0, 0, 0);
+    font-size: 30px;    
+       position: absolute;
+    top: 3cm;
+    width: 200px;
+    left: 18.5cm;
+    z-index: 1;
+}
+#p9{
+    color: rgb(0, 0, 0);
+    font-size: 20px;    
+       position: absolute;
+    top: 11cm;
+    left: 8.5cm;
+    z-index: 1;
+}
+#p10{
+    color: rgb(0, 0, 0);
+    font-size: 20px;    
+       position: absolute;
+    top: 9.5cm;
+    left: 13.5cm;
+    z-index: 1;
+}
+#p11{
+    color: rgb(0, 0, 0);
+    font-size: 50px;    
+       position: absolute;
+    top: 14cm;
+    left: 8cm;
+    z-index: 1;
+}
+#p12{
+    color: #ffffff;
+    font-size: 30px ;  
+      width: 200px;
+       position: absolute;
+    top: 15cm;
+    left: 18cm;
+    z-index: 1;
+}
+#p13{
+    color: hsl(0, 0%, 0%);
+    font-size: 15px ;  
+      width: 200px;
+       position: absolute;
+    top: 11cm;
+    left: 19cm;
+    z-index: 1;
+}
+#p14{
+    color: hsl(0, 0%, 0%);
+    font-size: 15px ;  
+      width: 200px;
+       position: absolute;
+    top: 16.5cm;
+    left: 8cm;
+    z-index: 1;
+}
+#p15{
+    color: hwb(0 100% 0%);
+    font-size: 18px ;  
+      width: 200px;
+       position: absolute;
+    top: 6.5cm;
+    left: 10cm;
+    z-index: 1;
+}
+#b2{
+    color: black;
+    background-color:lab(37.46% 76.12 -86.64);
+    height: 6cm;
+    width: 10cm;
+    border-radius: 10px;
+    position: absolute;
+    top: 3cm;
+    left: 7.5cm;
+}
+#b3{
+    color: black;
+    background-color:hwb(289 81% 1%);
+    height: 11cm;
+    width: 5.5cm;
+    border-radius: 10px;
+    position: absolute;
+    top: 3cm;
+    left: 18cm;
+}
+#b4{
+    color: black;
+    background-color: hsl(39, 100%, 71%);
+    height: 8cm;
+    width: 5cm;
+    border-radius: 10px;
+         position: absolute;
+    top:11.5cm;
+    left: 2cm;
+}
+#b5{
+    color: black;
+    background-color:lab(100% 0.01 -0.01);
+    height: 5cm;
+    width: 5cm;
+    border-radius: 10px;
+          position: absolute;
+    top:9.5cm;
+    left: 7.5cm;
+}
+#b6{
+    color: black;
+    background-color:hsl(39, 100%, 71%);
+    height: 5cm;
+    width: 4.5cm;
+    border-radius: 10px;
+            position: absolute;
+    top:9.5cm;
+    left: 13cm;
+}
+#b7{
+    color: black;
+    background-color:lch(100% 0.01 296.81);
+    height: 4.5cm;
+    width: 5cm;
+    border-radius: 10px;
+     top:15cm;
+    left: 7.5cm;
+    position: absolute;
+}
+#b8{
+    color: black;
+    background-color:lab(37.46% 76.12 -86.64);
+    height: 4.5cm;
+    width: 10.5cm;
+    border-radius: 10px;
+      top:15cm;
+    left: 13cm;
+    position: absolute;
+}
